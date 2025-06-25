@@ -5,8 +5,7 @@
  - Ilinca-Ioana Strutu
 
  ## Termen limita
- - $\textbf{soft: 28.05.2025, 23:55}$
- - $\sout{\textbf{hard: 28.05.2025, 23:55}}$
+ - $\textbf{28.05.2025, 23:55}$
 
 ## Minipoveste
 Dupa perioada de 1 mai, 2 mai, trebuia sa vina si ... tema 3 la IOCLA! <p>
